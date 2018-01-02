@@ -1,0 +1,10 @@
+name: ChestKit
+main: ChestKit\Main
+api: [3.0.0-ALHA10, 3.0.0-ALPHA9, 3.0.0-ALPHA8]
+version: 1.0
+author: Anony
+
+commands:
+ chestkit:
+     description: "Give Player ChestKit"
+     
